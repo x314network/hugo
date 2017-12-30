@@ -1,8 +1,7 @@
- Global settings applied to the whole site.  
 # 
-# “publish” is the directory to publish (relative to root of your repo),
-# “command” is your build command,
-# “base” is directory to change to before starting build. if you set base:
+# â€œpublishâ€ is the directory to publish (relative to root of your repo),
+# â€œcommandâ€ is your build command,
+# â€œbaseâ€ is directory to change to before starting build. if you set base:
 #    that is where we will look for package.json/.nvmrc/etc not repo root!
 
 [build]
